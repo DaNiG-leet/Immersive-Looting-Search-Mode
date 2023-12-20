@@ -1,0 +1,1 @@
+# Immersive-Looting-Search-Mode

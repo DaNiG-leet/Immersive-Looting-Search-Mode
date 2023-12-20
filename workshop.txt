@@ -1,0 +1,28 @@
+version=1
+id=3086502143
+title=Immersive Looting: Search Mode
+description=Adds container searches.
+description=Information about the searched container is lost if it was removed or left the loading zone.
+description=
+description=If you have the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815552312]Mod Config Menu[/url] mod enabled, you get the ability to start searching a container at the press of a button. Default: G. Can be changed in the settings in the MCM tab.
+description=
+description=[b]WORKS IN SINGLEPLAYER AND MULTIPLAYER![/b]
+description=
+description=[b]COMPATIBILITY[/b].
+description=Should be compatible with all mods. If it is not, please let me know. I will try to fix it.
+description=Added compatibility:
+description=- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577903374]AutoLoot[/url]
+description=- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2946364542]Search Containers[/url]
+description=
+description=[b]INCOMPATIBILITY[/b]
+description=With all mods that change the inventory interface logic. Probably.
+description=And also with mods that add searches. Seriously, why do you need to put more than one search mod?
+description=
+description=[b]FOR MODDERS[/b].
+description=There is a small API.
+description=Added an OnContainerSearched event that fires when a player has searched a container, and feeds the player's IsoPlayer object and the ItemContainer object of the container they searched.
+description=If that's not enough, let me know, we'll work something out.
+description=
+description=[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478][img]https://steamuserimages-a.akamaihd.net/ugc/1822269007325041509/9A7DF10F3A778CF98E9CE7423417E8B6EA687334/?imw=5000&imh=5000[/img][/url]
+tags=Build 41;Hardmode;Multiplayer;Realistic
+visibility=public

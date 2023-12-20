@@ -1,0 +1,17 @@
+VERSION = 1,
+
+option SearchingMod.ToggleRander
+{
+	type = boolean, default = true,
+	page = SearchingMod, translation = ToggleRander,
+}
+option SearchingMod.ToggleLootTransferAll
+{
+	type = boolean, default = true,
+	page = SearchingMod, translation = ToggleLootTransferAll,
+}
+option SearchingMod.SearchActionTimeMult
+{
+	type = double, min = 0, max = 50, default = 1,
+	page = SearchingMod, translation = SearchActionTimeMult,
+}

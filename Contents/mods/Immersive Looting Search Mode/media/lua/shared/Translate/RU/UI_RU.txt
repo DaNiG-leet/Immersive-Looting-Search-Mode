@@ -1,0 +1,6 @@
+UI_RU = {
+	UI_action_start_search = "Обыскать",
+	UI_start_search_option_name = "Обыскать",
+	UI_start_search_tooltip = "При нажатии на эту клавишу будет начат обыск выбранного контейнера. Не работает с контейнерами, которые находятся в инвентаре персонажа.",
+	UI_optionscreen_binding_StartSearchBtn = "Обыскать",
+}

@@ -1,0 +1,6 @@
+UI_EN = {
+	UI_action_start_search = "Search",
+	UI_start_search_option_name = "Search",
+	UI_start_search_tooltip = "Pressing this key will start a search of the selected container. Does not work with containers that are in the character's inventory.",
+	UI_optionscreen_binding_StartSearchBtn = "Search",
+}

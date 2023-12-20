@@ -1,0 +1,8 @@
+Sandbox_EN = {
+	Sandbox_SearchingMod = "Immersive looting",
+	Sandbox_ToggleRander = "Display a tooltip of unsearched containers?",
+	Sandbox_ToggleRander_tooltip = "Enables or disables the display of a tooltip when hovering over an unsearched container. Made to make it impossible to see the contents of the container without searching it.",
+	Sandbox_SearchActionTimeMult = "Multiplier of the minimum time required to search a container.",
+	Sandbox_ToggleLootTransferAll = "Remove the reaction to the "Loot all" and "Transfer all" buttons?",
+	Sandbox_ToggleLootTransferAll_tooltip = "If enabled, items that lie in an unsearched container will not be moved when you click the "Loot all" or "Transfer all" button.",
+}
